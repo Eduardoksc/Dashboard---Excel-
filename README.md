@@ -15,3 +15,11 @@ Diagnosticar, identificar y conocer la cantidad de visitas al sitio web y la can
 •El ranking en visitas frente a la competencia 
 •El ranking en páginas frente a la competencia
 
+## Cuadro de Mando 
+
+-	<a href ="https://github.com/Eduardoksc/Dashboard---Excel-/blob/main/DB1.PNG">Cuadro de Mando</a>
+
+![DB1](https://github.com/user-attachments/assets/91e290e7-8d10-45ea-b3d9-f285a9318a27)
+
+
+
