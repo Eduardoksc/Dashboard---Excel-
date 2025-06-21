@@ -6,3 +6,12 @@ Diagnosticar, identificar y conocer la cantidad de visitas al sitio web y la can
 
 ## Dataset usado 
 -	<a href ="https://github.com/Eduardoksc/Dashboard---Excel-/blob/main/ProyectoESC1.xlsx">Dataset</a>
+
+## KPI´S
+
+•El total de visitas
+•El total de páginas vistas 
+•Variaciones frente al mes anterior
+•El ranking en visitas frente a la competencia 
+•El ranking en páginas frente a la competencia
+
