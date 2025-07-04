@@ -9,11 +9,11 @@ Diagnosticar, identificar y conocer la cantidad de visitas al sitio web y la can
 
 ## KPI´S
 
-•El total de visitas
-•El total de páginas vistas 
-•Variaciones frente al mes anterior
-•El ranking en visitas frente a la competencia 
-•El ranking en páginas frente a la competencia
+- El total de visitas
+- El total de páginas vistas 
+- Variaciones frente al mes anterior
+- El ranking en visitas frente a la competencia 
+- El ranking en páginas frente a la competencia
 
 ## Cuadro de Mando 
 
